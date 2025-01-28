@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A proficient programmer from Ireland</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=jkir380&label=Profile%20views&color=0e75b6&style=flat](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3h5ZXhtYnNhd3pkZzN6YnJwc2MxYmF5c2pkaXNrNGtscXJsaWlmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif)" alt="jkir380" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkir380&label=Profile%20views&color=0e75b6&style=flat" alt="jkir380" /> </p>
 
 - 🌱 I’m currently learning **Software and games development**
 
